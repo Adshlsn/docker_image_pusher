@@ -1,4 +1,5 @@
 docker.io/nginx
 
+nginx:1.26.3-bookworm-perl
 
 
